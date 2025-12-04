@@ -40,7 +40,7 @@ This project presents a comprehensive sales analysis dashboard for Bosch, built 
 - Profit : 127 M
 - Units Sold : 21 K
 - Sales Mode : 56% Offline / 44% Online
-- Top Selling Product : Refridgerator (8K units, 150 M revenue)
+- Top Selling Product : Refrigerator (8K units, 150 M revenue)
 - Top Category : Manufacturing (108.34 M sales)
 
 📌 FEATURES & HIGHLIGHTS:
@@ -48,9 +48,6 @@ This project presents a comprehensive sales analysis dashboard for Bosch, built 
 - Clean, branded layout optimized for executive review
 - AI-generated data ensures flexibility and realism for portfolio use
 -
-- DASHBOARD OVERVIEW:
+- DASHBOARD PREVIEW:
 - ( https://github.com/sarkarrishav18/Bosch_Sales_Analysis/blob/main/Bosch_dash_ss.png )
   
- 
-
-- 🖼️ Dashboard Preview
